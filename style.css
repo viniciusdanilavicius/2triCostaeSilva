@@ -1,10 +1,12 @@
+
 .gridtitulo{
     text-align: center;
-    color: aqua;
+    color: rgb(0, 0, 0);
     font-size: 30px;
 }
 .gridimagens{
     width: 250px;
+    height: 250px;
 }
 .todasimagens{
     display: grid;
